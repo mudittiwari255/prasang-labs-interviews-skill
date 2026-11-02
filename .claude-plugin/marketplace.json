@@ -1,0 +1,12 @@
+{
+  "name": "prasang-labs-interviews-skill",
+  "description": "Skills for Interviews by PrasangLabs",
+  "owner": { "name": "PrasangLabs", "url": "https://interviews.prasanglabs.com" },
+  "plugins": [
+    {
+      "name": "interview-room",
+      "source": "./plugins/interview-room",
+      "description": "Build an interview room (problem, starting files, hidden checks, judge) as one validated room.zip to upload."
+    }
+  ]
+}

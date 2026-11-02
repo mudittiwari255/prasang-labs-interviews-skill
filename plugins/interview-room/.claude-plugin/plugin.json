@@ -1,0 +1,7 @@
+{
+  "name": "interview-room",
+  "version": "1.0.0",
+  "description": "Build an interview room for Interviews by PrasangLabs as one validated room.zip.",
+  "author": { "name": "PrasangLabs", "url": "https://interviews.prasanglabs.com" },
+  "homepage": "https://interviews.prasanglabs.com"
+}
