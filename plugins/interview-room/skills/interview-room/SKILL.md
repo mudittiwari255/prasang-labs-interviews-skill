@@ -10,7 +10,7 @@ codebase to debug, an incident to investigate, data to analyse, a product decisi
 an editor, a terminal and an AI assistant on the starting files. When they submit, hidden checks run on their work and an AI
 judge scores them against the room's skills and answer key.
 
-You produce one folder and turn it into `room.zip`. The person uploads it in **Rooms, Create from a room package**. Every
+You produce one folder and turn it into `room.zip`. The person uploads it in **Rooms, New room, With your AI assistant**. Every
 field fills in as a draft they can review, change, try and publish. Nothing goes live without them.
 
 ## The folder
@@ -58,7 +58,7 @@ my-room/
    tools; the platform's sandbox has no network), and writes the zip only when there are no errors. Fix every error and run
    it again. Read the warnings and fix the ones that matter.
 
-7. **Hand over.** Tell the person where `room.zip` is and how to upload it: Rooms, Create from a room package. Then they
+7. **Hand over.** Tell the person where `room.zip` is and how to upload it: Rooms, New room, With your AI assistant. Then they
    should read every tab, press "Try the checks" and "Try it as a candidate" before publishing. Summarise the answer key and
    the checks for them in a few lines.
 

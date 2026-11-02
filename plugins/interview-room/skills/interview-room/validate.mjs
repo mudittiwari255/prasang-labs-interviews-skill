@@ -141,7 +141,7 @@ if (zipOut) {
   const zip = zipFiles(entries);
   if (zip.length > LIMITS.zipBytes) { console.log(`\nThe zip would be ${(zip.length / 1048576).toFixed(1)} MB; the limit is 25 MB. Make the data smaller.`); process.exit(1); }
   fs.writeFileSync(path.resolve(zipOut), zip);
-  console.log(`Wrote ${path.resolve(zipOut)} (${(zip.length / 1024).toFixed(0)} KB). Upload it in Rooms, Create from a room package.`);
+  console.log(`Wrote ${path.resolve(zipOut)} (${(zip.length / 1024).toFixed(0)} KB). Upload it in Rooms, New room, With your AI assistant.`);
 }
 
 function zipFiles(list) {
